@@ -1,2 +1,2 @@
 # KPS21
-Any changes will compromise app performance.
+Any changes to files in this repository will compromise app performance.
